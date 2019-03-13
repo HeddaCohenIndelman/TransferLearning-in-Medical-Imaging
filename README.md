@@ -7,7 +7,8 @@ In this work I will try to classify X-ray images, taken from the dataset of Ches
 Dataset is shared on https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/home
 Dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal).
 There are 5,863 X-ray images (JPEG) and 2 categories (Pneumonia/Normal).
-##Acknowledgements
+The dataset should be downloaded and saved. Change the path if you intend to locate it on a different path then what I’ve specified.
+### Acknowledgements
 Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
 License: CC BY 4.0
 Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
